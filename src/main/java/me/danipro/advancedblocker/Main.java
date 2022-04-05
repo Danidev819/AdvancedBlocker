@@ -36,7 +36,7 @@ public class Main extends Plugin implements Listener {
         getProxy().getPluginManager().registerListener(this, new PlayerListener(this));
         getProxy().getPluginManager().registerListener(this, this);
         getLogger().info("Bungee AdvancedBlocker has been enabled");
-        getLogger().info("By Danipro_2007");
+        getLogger().info("By Danidev819");
         plugin = this;
         LoadFile();
         SetupFileManager();
