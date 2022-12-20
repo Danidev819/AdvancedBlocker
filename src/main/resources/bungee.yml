@@ -1,0 +1,3 @@
+name: AdvancedBlocker
+version: '${project.version}'
+main: me.danipro.advancedblocker.bungee.Main

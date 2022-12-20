@@ -1,0 +1,23 @@
+NoPermsMsg: "&8[&cAdvancedBlocker&8] &cYou don't have permissions to do that!"
+AlertMsg: "&8[&cAdvancedBlocker&8] &c%player% use: %cmd%"
+KickMessage: "&8[&cAdvancedBlocker&8] &cYou don't have permissions to do that!"
+EnableKick: true
+EnableLog: true
+CommandsBlocked:
+  - 'about'
+  - 'bukkit:about'
+  - 'bukkit:help'
+  - 'bukkit:?'
+  - 'bukkit:me'
+  - 'bukkit:pl'
+  - 'bukkit:plugins'
+  - 'bukkit:ver'
+  - 'bukkit:version'
+  - 'help'
+  - 'icanhasbukkit'
+  - 'info'
+  - '?'
+  - 'pl'
+  - 'plugins'
+  - 'ver'
+  - 'version'
